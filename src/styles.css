@@ -1,1 +1,8 @@
 /* You can add global styles to this file, and also import other style files */
+.active {
+  background-color: red;
+}
+.success {
+  background-color: #ddffdd;
+  border-left: 6px solid #4CAF50;
+}
